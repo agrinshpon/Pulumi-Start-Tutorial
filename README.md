@@ -23,7 +23,7 @@ Pulumi came along in 2017 so it is a relative newcomer as far as infrastructure-
 
 ### What will we do in this tutorial?
 
-In this tutorial we will start off by installing Pulumi. Then we will create a new user in our AWS account and give that user access to the S3 and KMS services. We will use Pulumi to create an S3 bucket and a KMS key to encrypt that bucket. This will get you started with Pulumi in a hands-on way and in later tutorials we can deep dive into more advanced topics. 
+We will start off by creating a new user in our AWS account and give that user access to the S3 and KMS services. We will use Pulumi to create an S3 bucket and a KMS key to encrypt that bucket. This will get you started with Pulumi in a hands-on way and in later tutorials we can deep dive into more advanced topics. 
 
 ### Creating an AWS user
 
